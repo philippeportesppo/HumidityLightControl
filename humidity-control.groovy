@@ -15,9 +15,9 @@
  */
 definition(
     name: "Humidity Control",
-    namespace: "varma",
-    author: "Vikash Varma",
-    description: "Maintain humidity in a room by connecting humidity sensor with humidifier and dehumidifier",
+    namespace: "philippeportesppo",
+    author: "Philippe Portes",
+    description: "Maintain humidity in a room by connecting humidity sensor with humidifier and dehumidifier if the light is below a given level",
     category: "My Apps",
     iconUrl: "https://graph.api.smartthings.com/api/devices/icons/st.Weather.weather12-icn",
     iconX2Url: "https://graph.api.smartthings.com/api/devices/icons/st.Weather.weather12-icn?displaySize=2x"
